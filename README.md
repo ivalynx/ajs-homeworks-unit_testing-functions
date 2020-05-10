@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/q2y773g2bi0a1xoo?svg=true)](https://ci.appveyor.com/project/ivalynx/ajs-homeworks-unit-testing-functions)
